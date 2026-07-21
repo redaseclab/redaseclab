@@ -17,7 +17,7 @@
 <br>
 
 ## 📑 Professional Summary
-As a 4th year Cybersecurity Engineering student at EMSI, I am developing expertise in Active Defense (SOC) and Offensive Security (Pentest). My profile is distinguished by my ability to design robust monitoring architectures and automate threat detection using Artificial Intelligence.
+As a 5th year Cybersecurity Engineering student at EMSI, I am developing expertise in Active Defense (SOC) and Offensive Security (Pentest). My profile is distinguished by my ability to design robust monitoring architectures and automate threat detection using Artificial Intelligence.
 
 ---
 
