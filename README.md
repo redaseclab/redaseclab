@@ -41,7 +41,9 @@ As a 4th year Cybersecurity Engineering student at EMSI, I am developing experti
 ---
 
 ## 🏆 Certifications
-* 🥇 **Python**
+* 🥇 **Cisco Junior Cybersecurity Analyst**
+* 🥇 **Google Cybersecurity Professional Certificate**
+* 🥇 **IBM Cybersecurity Analyst Professional Certificate**
 
 
 
