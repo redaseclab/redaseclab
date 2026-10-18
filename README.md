@@ -14,6 +14,9 @@
 <div align="center">
  <img height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
 </div>
+<div align="center">
+ <img height="300" width="500" src="https://raw.githubusercontent.com/redaseclab/redaseclab/assets/redaseclab.gif"/>
+</div>
 <br>
 
 ## 📑 Professional Summary
